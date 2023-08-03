@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "GeneratePointsOnMesh.generated.h"
+#include "GeneratePointsOnMesh.generated.h"  // #include "GenerateMeshPoints.generated.h"
 
 UCLASS()
 class VCC_CARCONFIG01_API AGeneratePointsOnMesh : public AActor
