@@ -1,6 +1,6 @@
 // GeneratePointsOnMesh.cpp
 
-#include "GeneratePointsOnMesh.h"
+#include "GeneratePointsOnMesh.h" // #include "GenerateMeshPoints.h"   
 #include "Components/SplineComponent.h"
 
 AGeneratePointsOnMesh::AGeneratePointsOnMesh()
